@@ -1,10 +1,13 @@
-# install dependencies
+### install dependencies
+```bash
 yarn
 ```
-### Development Scripts
+## Development Scripts
+### run application in development mode
 ```bash
-# run application in development mode
 yarn dev
-# run in normal mode
+```
+### run in normal mode
+```bash
 yarn start
 ```
