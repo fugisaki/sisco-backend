@@ -3,11 +3,11 @@
 yarn
 ```
 ## Development Scripts
-### run application in development mode
+### run in development mode
 ```bash
 yarn dev
 ```
-### run in normal mode
+### run in production mode
 ```bash
 yarn start
 ```
